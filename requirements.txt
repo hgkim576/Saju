@@ -1,0 +1,4 @@
+streamlit>=1.58
+korean-lunar-calendar>=0.4.0
+plotly>=5.22
+Pillow>=10.0
