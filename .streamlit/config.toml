@@ -1,0 +1,27 @@
+[theme]
+primaryColor = "#7C5CFF"
+baseRadius = "medium"
+
+# 라이트: 파스텔 라벤더
+[theme.light]
+primaryColor = "#7C5CFF"
+backgroundColor = "#FCFAFF"
+secondaryBackgroundColor = "#F1ECFF"
+textColor = "#2B2340"
+borderColor = "#D3C6FF"
+showWidgetBorder = true
+
+# 다크: 밤하늘
+[theme.dark]
+primaryColor = "#A48BFF"
+backgroundColor = "#12102A"
+secondaryBackgroundColor = "#1F1B45"
+textColor = "#EDE9FF"
+borderColor = "#4A4290"
+showWidgetBorder = true
+
+[server]
+headless = true
+
+[browser]
+gatherUsageStats = false
